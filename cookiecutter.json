@@ -2,4 +2,5 @@
 	"project_name": "Flask App",
 	"repo_name": "myflaskapp",
 	"project_short_description": "A small website",
+    "footer_message": "made by @natronics in the fabulous hipster paradise of Portland, Ore."
 }
